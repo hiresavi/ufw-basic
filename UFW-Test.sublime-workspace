@@ -7,14 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "object.html",
-			"settings":
-			{
-				"buffer_size": 212,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -40,7 +32,14 @@
 	},
 	"file_history":
 	[
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/hires/.homestead/Homestead.yaml",
+		"/C/Windows/System32/drivers/etc/hosts1",
+		"/C/Windows/System32/drivers/etc/hosts - Copy",
+		"/C/Users/hires/Documents/hosts",
 		"/D/Coding/UFW-Test/object.html",
+		"/D/Coding/UFW-Test/README.md",
+		"/D/Coding/UFW-Test/object2.html",
 		"/D/Coding/UFW-Test/object-renamed.html"
 	],
 	"find":
@@ -76,35 +75,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "object.html",
-					"settings":
-					{
-						"buffer_size": 212,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								212,
-								212
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -164,6 +136,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 178.0,
+	"side_bar_width": 197.0,
 	"status_bar_visible": true
 }
